@@ -40,4 +40,4 @@ rpc.on('ready', async () => {
   console.log('Authed for user', rpc.user.username)
 })
 
-rpc.login({ clientId: '832386811383906320' })
+rpc.login({ clientId: '884594470887260232' })
