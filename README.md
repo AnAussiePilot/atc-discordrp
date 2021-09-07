@@ -11,6 +11,7 @@ Nice Discord rich presences for virtual air traffic controllers.
 - vSTARS
 - vERAM
 - IvAc
+- vatSys
 
 **Configured networks:**
 
